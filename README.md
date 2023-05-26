@@ -1,5 +1,3 @@
-"Contact Management App"
-
 This application provides a user-friendly platform for managing personal and professional contacts. Built with Laravel, one of the most popular PHP frameworks, it ensures robust performance and easy maintenance.
 
 The application includes features for adding, viewing, editing, and deleting contact records. Each contact can contain details like name, phone number, email, and additional notes. 
